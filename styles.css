@@ -19,6 +19,11 @@
         div.button button{
           width: 100%;
         }
+div.button button a{
+	color: #ffff;
+	text-decoration: none;
+}
         .box-shadow{
           box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
         }
+
