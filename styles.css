@@ -9,7 +9,7 @@
       }
       div.container>div.row>div.col:last-child{
         background-color: #f7fbff;
-        border-top: 3px solid #5ea4f3 !important;
+        border-top: 2px solid rgb(94, 164, 243) !important;
       }
       div.quantity input{
             width: 5rem;
